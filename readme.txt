@@ -1,5 +1,5 @@
 === Tumblr Avatars List ===
-Contributors: OriignalEXE
+Contributors: OrignalEXE
 Donate link: http://originalexe.com/donate
 Tags: tumblr, tumblr avatars, avatar, tumblr list
 Requires at least: 3.0.
